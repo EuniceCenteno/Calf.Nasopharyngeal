@@ -1,0 +1,10 @@
+ID	calf	treatment	diagnostic	day	sickness 	antibiotic
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical
+CFT18_ds5_S54	C18	S_ds5	RespD	s5	Got	Yes
+CFT19_ds5_S55	C19	S_ds5	RespD	s5	Got	Yes
+CFT23_ds5_S59	C23	S_ds5	RespD	s5	Got	Yes
+CFT30_ds5_S66	C30	S_ds5	RespD	s5	Got	Yes
+CFT12_d7_S48	C12	H_d7	NoResp	h7	Never	No
+CFT14_d7_S50	C14	H_d7	NoResp	h7	Never	No
+CFT17_d7_S53	C17	H_d7	NoResp	h7	Never	No
+CFT6_d7_S42	C6	H_d7	NoResp	h7	Never	No

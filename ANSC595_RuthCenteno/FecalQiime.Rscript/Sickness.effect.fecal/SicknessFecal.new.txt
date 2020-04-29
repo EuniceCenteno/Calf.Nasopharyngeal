@@ -1,0 +1,17 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+CFT11_d0_S11	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT11_d0_S11_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT11_d0_S11_R2_001.fastq.gz
+CFT12_d7_S48	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT12_d7_S48_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT12_d7_S48_R2_001.fastq.gz
+CFT13_d0_S13	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT13_d0_S13_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT13_d0_S13_R2_001.fastq.gz
+CFT17_d7_S53	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT17_d7_S53_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT17_d7_S53_R2_001.fastq.gz
+CFT18_ds0_S18	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT18_ds0_S18_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT18_ds0_S18_R2_001.fastq.gz
+CFT19_ds0_S32	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT19_ds0_S32_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT19_ds0_S32_R2_001.fastq.gz
+CFT1_ds0_S67	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT1_ds0_S67_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT1_ds0_S67_R2_001.fastq.gz
+CFT20_d0_S20	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT20_d0_S20_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT20_d0_S20_R2_001.fastq.gz
+CFT21_ds1_S70	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT21_ds1_S70_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT21_ds1_S70_R2_001.fastq.gz
+CFT22_d14_S89	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT22_d14_S89_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT22_d14_S89_R2_001.fastq.gz
+CFT23_ds1_S34	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT23_ds1_S34_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT23_ds1_S34_R2_001.fastq.gz
+CFT29_ds1_S72	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT29_ds1_S72_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT29_ds1_S72_R2_001.fastq.gz
+CFT2_d0_S2	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT2_d0_S2_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT2_d0_S2_R2_001.fastq.gz
+CFT30_ds1_S36	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT30_ds1_S36_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT30_ds1_S36_R2_001.fastq.gz
+CFT6_d7_S42	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT6_d7_S42_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT6_d7_S42_R2_001.fastq.gz
+CFT9_ds0_S94	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT9_ds0_S94_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfFecal/CFT9_ds0_S94_R2_001.fastq.gz

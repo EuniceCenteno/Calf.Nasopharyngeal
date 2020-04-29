@@ -1,0 +1,14 @@
+ID	calf	diagnostic	day	Sicknes	Antibiotic
+#q2:types	categorical	categorical	categorical	categorical	categorical
+CNT12_d7_S233	C12	NoResp	h7	Never	No
+CNT17_d7_S238	C17	NoResp	h7	Never	No
+CNT6_d7_S227	C6	NoResp	h7	Never	No
+CNT13_d14_S268	C13	NoResp	h14	Never	No
+CNT14_d14_S269	C14	NoResp	h14	Never	No
+CNT25_d14_S279	C25	NoResp	h14	Never	No
+CNT18_ds5_S251	C18	RespD	s5	Got	Yes
+CNT19_ds5_S239	C19	RespD	s5	Got	Yes
+CNT21_ds5_S288	C21	RespD	s5	Got	Yes
+CNT23_ds5_S255	C23	RespD	s5	Got	Yes
+CNT28_ds5_S129_	C28	RespD	s5	Got	Yes
+CNT29_ds5_S122	C29	RespD	s5	Got	Yes

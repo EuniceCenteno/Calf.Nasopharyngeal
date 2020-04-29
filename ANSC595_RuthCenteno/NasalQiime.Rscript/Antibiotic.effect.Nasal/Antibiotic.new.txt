@@ -1,0 +1,18 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+CNT12_d7_S233	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT12_d7_S233_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT12_d7_S233_R2_001.fastq.gz
+CNT13_d14_S268	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT13_d14_S268_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT13_d14_S268_R2_001.fastq.gz
+CNT14_d14_S269	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT14_d14_S269_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT14_d14_S269_R2_001.fastq.gz
+CNT17_d7_S238	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT17_d7_S238_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT17_d7_S238_R2_001.fastq.gz
+CNT18_ds5_S251	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT18_ds5_S251_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT18_ds5_S251_R2_001.fastq.gz
+CNT19_ds5_S239	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT19_ds5_S239_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT19_ds5_S239_R2_001.fastq.gz
+CNT21_ds5_S288	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT21_ds5_S288_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT21_ds5_S288_R2_001.fastq.gz
+CNT23_ds5_S255	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT23_ds5_S255_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT23_ds5_S255_R2_001.fastq.gz
+CNT25_d14_S279	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT25_d14_S279_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT25_d14_S279_R2_001.fastq.gz
+CNT28_ds5_S129_	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT28_ds5_S129_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT28_ds5_S129_R2_001.fastq.gz
+CNT29_ds5_S122	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT29_ds5_S122_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT29_ds5_S122_R2_001.fastq.gz
+CNT6_d7_S227	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT6_d7_S227_R1_001.fastq.gz	/scratch/snyder/r/rcenteno/qiime/CalfNasal/CNT6_d7_S227_R2_001.fastq.gz
+		
+		
+		
+		
+		
