@@ -1,9 +1,0 @@
-ID	day.study	day.block
-CFT12_d7_S48	7	7
-CFT14_d7_S50	7	7
-CFT17_d7_S53	7	7
-CFT6_d7_S42	7	7
-CFT18_ds5_S54	8	7
-CFT19_ds5_S55	7	7
-CFT23_ds5_S59	8	7
-CFT30_ds5_S66	7	7
