@@ -1,0 +1,10 @@
+Genus,term,estimate,std.error,statistic,p.value,p.adj,sig,ASVstring,col1,col2,col3,col4,genus
+ASV175,d,0.645087188,0.11578,5.571663395,2.52E-08,2.52E-08,P-Value < 0.05,Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Butyricimonas,Bacteroidetes,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas
+ASV348,d,0.141786597,0.05301,2.674714148,0.007479299,0.007479299,P-Value < 0.05,Epsilonbacteraeota;Campylobacteria;Campylobacterales;Helicobacteraceae;Helicobacter,Epsilonbacteraeota,Campylobacteria,Campylobacterales,Helicobacteraceae,Helicobacter
+ASV392,d,0.437895983,0.12825,3.41439363,0.000639241,0.000639241,P-Value < 0.05,Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Jeotgalibaca,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Jeotgalibaca
+ASV373,d,-0.244582261,0.12461,-1.962781964,0.049671514,0.049671514,P-Value < 0.05,Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Jeotgalicoccus,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Jeotgalicoccus
+ASV398,d,0.157523389,0.053164,2.962970975,0.003046853,0.003046853,P-Value < 0.05,Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+ASV890,d,-0.222847803,0.10575,-2.107307826,0.035090905,0.035090905,P-Value < 0.05,Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma
+ASV97,d,-0.12659364,0.052004,-2.434305819,0.014920383,0.014920383,P-Value < 0.05,Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Rothia,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Rothia
+ASV872,d,0.120701532,0.051747,2.332531973,0.019672723,0.019672723,P-Value < 0.05,Spirochaetes;Spirochaetia;Spirochaetales;Spirochaetaceae;Treponema 2,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema 2
+ASV673,d,-0.122859608,0.051231,-2.398149709,0.016478129,0.016478129,P-Value < 0.05,Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;uncultured,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Xanthobacteraceae*

@@ -1,0 +1,2 @@
+	baseMean	log2FoldChange	lfcSE	stat	pvalue	padj	Phylum	Class	Order	Family	Genus	Species	Confidence	OTUs	High_low
+ASV1501	11.73684211	-3.809054893	0.818423805	-4.654135024	3.25E-06	0.012483433	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia	0.9874103	20460fec2bd9ddcf264616cdaf3fe0fc	High in Healthy
